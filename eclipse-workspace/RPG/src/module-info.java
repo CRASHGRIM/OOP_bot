@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author danii
- *
- */
-module RPG {
-}
